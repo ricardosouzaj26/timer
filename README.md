@@ -5,18 +5,15 @@ O usuário informa o tempo em segundos e o programa exibe a contagem no formato 
 
 ---
 
-## ▶️ Como executar
+## Como executar
 
-1. Verifique se você tem o Python 3 instalado:
-```bash
-python --version
+1. Certifique-se de ter o Python 3 instalado
+2. Clone o repositório ou baixe os arquivos
+3. No terminal, entre na pasta do projeto:
 ```
-2. Clone o repositório:  
-```bash
-git clone https://github.com/ricardosouzaj26/timer-python.git  
-cd timer-python
-```  
-3. Execute o programa:  
-```bash
+cd timer
+```   
+Execute o jogo:
+```
 python timer.py
-```
+
